@@ -8,17 +8,17 @@
 <body>
     
 <?php
-echo $nome = "Bianca <br>"; // Variável que contém o nome de uma pessoa
+echo $nome = "Murillo <br>"; // Variável que contém o nome de uma pessoa
 
-echo $idade = "22 anos <br>"; // Variável que contém a idade da pessoa
+echo $idade = "17 anos <br>"; // Variável que contém a idade da pessoa
 
-echo $peso = "70kg <br>"; // Variável que contém o peso da pessoa
+echo $peso = "75kg <br>"; // Variável que contém o peso da pessoa
 
-echo $altura = "1,65cm <br>"; // Variável que contém a altura da pessoa 
+echo $altura = "1,70cm <br>"; // Variável que contém a altura da pessoa 
 
-echo $profissao = "Bióloga <br>"; // Variável que contém a profissão da pessoa
+echo $profissao = "Estudante <br>"; // Variável que contém a profissão da pessoa
 
-echo $nacionalidade = "Brasileira <br>"; // Variável que contém a nacionalidade da pessoa
+echo $nacionalidade = "Brasileiro <br>"; // Variável que contém a nacionalidade da pessoa
 ?>
 
 </body>
